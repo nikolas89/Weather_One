@@ -14,10 +14,10 @@
 
 * UI Scheme
 <p align="center">
-<img src="Resources/weather.png" height="540" width="314">
+<img src="Resources/weather.png" height="720" width="415">
 </p>
 
 * Gif
 <p align="center">
-<img src="Resources/weather.gif" height="320" width="160">
+<img src="Resources/weather.gif" height="640" width="320">
 </p>
